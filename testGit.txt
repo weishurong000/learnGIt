@@ -3,3 +3,4 @@
 add 3333333333333
 wsr branch to change this line
 homeweishurong 修改了这一行的内容
+A 已经 修改了这一行, 并先于 B 提交合并到了 master 分支
