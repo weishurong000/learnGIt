@@ -1,1 +1,2 @@
 自己在家写的一些东西
+git checkout -- fileName
